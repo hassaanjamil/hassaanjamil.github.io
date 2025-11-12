@@ -1,13 +1,13 @@
 ---
 # Display name
-title: Alex Johnson
+title: Muhammad Hassan Jamil
 
 # Name pronunciation (optional)
 name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Alex
-last_name: Johnson
+first_name: Muhammad Hassan
+last_name: Jamil
 
 # Pronouns (optional)
 pronouns: he/him
@@ -23,65 +23,56 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Senior AI Research Scientist
+role: Mobile Application & Agentic AI Engineer
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: Brixio
+    url: https://brixio.io/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:alex.johnson@meta.com'
-    label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/AlexAIResearch
-  - icon: brands/github
-    url: https://github.com/alexjohnsonai
+    url: 'mailto:hassanjamil91@gmail.com'
+    label: E-mail
+  - icon: brands/whatsapp
+    url: "https://wa.me/971589776893"
+    label: WhatsApp
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/alexjohnsonai/
+    url: https://www.linkedin.com/in/hassaanjamil/
+    label: Linkedin Profile
+  - icon: brands/x
+    url: https://x.com/HassanJamil91
+    label: X/Twitter Profile
+  - icon: brands/github
+    url: https://github.com/hassaanjamil
+    label: GitHub Profile
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=alexjohnson
-  - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+    url: https://g.dev/hassanjamil
+    label: Google Developer Profile
+
 
 interests:
-  - Large Language Models
+  - Mobile Application Development (iOS/Android)
+  - Agentic AI Development
+  - Autonomous System
   - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - Software Development
 
 education:
-  - area: PhD Computer Science (AI Focus)
-    institution: Stanford University
-    icon: ""
-    date_start: 2015-09-01
-    date_end: 2019-06-30
-    summary: |
-      Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com/thesis.pdf'
-  - area: MS Computer Science
-    institution: Carnegie Mellon University
-    icon: ""
-    date_start: 2013-09-01
-    date_end: 2015-05-31
-    summary: |
-      GPA: 4.0/4.0
-
-      Specialized in machine learning and robotics.
   - area: BS Computer Science
-    institution: MIT
+    institution: PMAS Arid Agriculture University
     icon: ""
-    date_start: 2009-09-01
-    date_end: 2013-05-31
+    date_start: 2010-02-01
+    date_end: 2014-02-01
     summary: |
-      GPA: 3.9/4.0
+      GPA: 3.91/4.0
 
-      Minored in Mathematics. President of AI Club.
+      Specialized in mobile application development.
+    button:
+      text: 'MTBC PHR'
+      url: 'https://download.cnet.com/mtbc-phr-personal-health-record-for-everyone/3000-2129_4-78092120.html'
 
 work:
   - position: Senior AI Research Scientist
