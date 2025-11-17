@@ -76,23 +76,57 @@ education:
       url: 'https://download.cnet.com/mtbc-phr-personal-health-record-for-everyone/3000-2129_4-78092120.html'
 
 work:
-  - position: Lead Mobile & Agentic AI Engineer
+  - position: Senior React Native Mobile Developer
     company_name: Brixio
     company_url: 'https://brixio.io/'
     icon: ''
-    date_start: 2023-01-01
-    date_end: ''
+    date_start: 2023-07-01
+    date_end: '2025-08-01'
     summary: |2-
-      Architecting scalable React Native applications for fintech and proptech products while introducing autonomous AI copilots for operations teams. Led a cross-functional squad of 8 engineers and delivered a 35% reduction in feature cycle time through reusable design systems and automated testing.
-  - position: Principal React Native Consultant
-    company_name: Independent
-    company_url: ''
+      - Architected Emirates Driving Institute mobile app using React Native New Architecture.
+      - Improved performance by 40% with new architecture, implementing Redux and optimizing hooks along with asynchronous logic.
+      - Managed complex business logic into pieces and established a centralized global state.
+      - Released production builds to App Store/Play Store with crash rates below 1%.
+      - Orchestrated backend interactions using .NET and Firebase workflows
+  - position: Senior Mobile Application Developer
+    company_name: 100 Percent Property
+    company_url: 'https://100percentproperty.com/'
     icon: ''
-    date_start: 2017-01-01
-    date_end: 2020-12-31
+    date_start: 2022-04-01
+    date_end: 2023-03-01
     summary: |2-
-      Helped high-growth startups modernize their mobile stacks, migrate legacy native apps to React Native, and productionize ML-powered personalization. Built CI/CD pipelines, ran performance audits, and mentored distributed teams across MENA.
-
+      - Delivered BrokerBlocker.ae app on Android/iOS to help real estate client brokers avoid getting spam calls and limit the interaction with just whitelisted contacts.
+      - Enhanced performance and security, reducing latency by 40%.
+      - Aligned feature development with business KPIs in agile sprints.
+  - position: Senior Android Developer (Remote, Part-time)
+    company_name: Aquatic AV
+    company_url: 'https://100percentproperty.com/'
+    icon: ''
+    date_start: 2021-08-01
+    date_end: 2021-10-01
+    summary: |2-
+      - Developed an IoT Bluetooth Android app for marine, powersports, and Spas to provide premium audio and lighting systems.
+      - Built custom UI and pairing logic, increasing engagement by 20%, developed some beautiful UI widgets, e.g., temperature knob and RGB controller.
+  - position: Team Lead & Senior Android Developer
+    company_name: TPL Trakker
+    company_url: 'https://tpltrakker.com/'
+    icon: ''
+    date_start: 2015-07-01
+    date_end: 2022-01-01
+    summary: |2-
+      - Managed team of 6; led development of TPL Maps (Pakistan’s first mapping solution).
+      - Integrated advanced geolocation, offline mapping, routing, and turn-by-turn real-time navigation features.
+      - Created SDK for 3rd-party integration into local businesses' apps.
+  - position: Android Developer
+    company_name: Magma Systems
+    company_url: 'https://www.linkedin.com/company/magma-systems/posts/?feedView=all'
+    icon: ''
+    date_start: 2014-03-01
+    date_end: 2015-06-01
+    summary: |2-
+      - Built 5+ location-based apps with responsive UI, Firebase, and Google Maps integration, for automobile, pet community, tourism, map, and location domains.
+      - Developed a sensor-based Android phone application to generate vehicle test reports, which was successfully delivered by integrating a lot of complex mathematical computations.
+      - Developed and deployed an app, helping UK citizens to find their pets, broadcasting notification-based alerts to nearby users/community.
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
