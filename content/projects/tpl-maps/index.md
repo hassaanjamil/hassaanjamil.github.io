@@ -1,6 +1,6 @@
 ---
-title: TPL Maps & SDK
-summary: Pakistan’s first homegrown navigation stack with offline routing, enterprise SDK licensing, and live traffic intelligence.
+title: TPL Maps App & SDK
+summary: Pakistan’s first homegrown maps navigation app stack with offline routing, enterprise SDK licensing, and live traffic intelligence.
 date: 2021-10-01
 featured: true
 tags:
