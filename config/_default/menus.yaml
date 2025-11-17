@@ -7,15 +7,18 @@ main:
   - name: Bio
     url: /
     weight: 10
+  - name: Education
+    url: education/
+    weight: 20
   - name: Experience
     url: experience/
-    weight: 20
+    weight: 30
   - name: Projects
     url: projects/
-    weight: 30
-  - name: Courses
-    url: courses/
     weight: 40
+  - name: Certificates
+    url: certificates/
+    weight: 50
   - name: Blogs
-    url: /#writing1
-    weight: 13
+    url: /#blog
+    weight: 60

@@ -1,101 +1,53 @@
 ---
-title: 🎉 Easily create your own simple yet highly customizable blog
-summary: Take full control of your personal brand and privacy by migrating away from the big tech platforms!
-date: 2023-10-27
-
-# Featured image
-# Place an image named `featured.jpg/png` in this page's folder and customize its options here.
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
-
+title: 'Agentic Mobile Playbook: Shipping React Native Apps with AI Copilots'
+summary: Practical steps I follow to pair a high-performance React Native codebase with autonomous AI workflows that keep teams shipping faster.
+date: 2024-05-20
 authors:
   - admin
-  - Ted
-
 tags:
-  - Academic
-  - Hugo Blox
-  - Markdown
-
+  - React Native
+  - Agentic AI
+  - Product Delivery
+categories:
+  - Engineering
+image:
+  caption: 'Architecting agentic experiences for cross-platform apps.'
 content_meta:
-  trending: true
+  trending: false
+  keywords:
+    - mobile engineer in dubai
+    - react native consultant
+    - agentic ai engineer
 ---
 
-Welcome 👋
+Most of my consulting work lives at the intersection of two goals: delivering polished cross-platform apps and letting teams offload repetitive playbooks to safe autonomous copilots. Below is the playbook I use with founders and engineering leads in Dubai and beyond.
 
-{{< toc mobile_only=true is_open=true >}}
+## 1. Establish a measurable mobile baseline
 
-## Overview
+I begin with an audit that captures startup time, bundle size, memory, and crash-free sessions across iOS/Android. This informs a performance budget, identifies anti-patterns (blocking API calls, global re-renders), and feeds lighthouse-style dashboards that leadership can track.
 
-1. The Hugo Blox website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site
-2. The template can be modified and customised to suit your needs. It's a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a **no-code solution (write in Markdown and customize with YAML parameters)** and having **flexibility to later add even deeper personalization with HTML and CSS**
-3. You can work with all your favourite tools and apps with hundreds of plugins and integrations to speed up your workflows, interact with your readers, and much more
+## 2. Design modular architecture
 
-[//]: # '[![The template is mobile first with a responsive design to ensure that your site looks stunning on every device.](https://raw.githubusercontent.com/HugoBlox/hugo-blox-builder/main/starters/academic-cv/preview.png)](https://hugoblox.com)'
+I lean on clean layering—feature slices, shared UI kits, and typed API clients. This structure accelerates onboarding and makes it easier to introduce AI-driven features such as personalization or generative UI without hacking business logic.
 
-### Get Started
+## 3. Introduce agentic copilots where humans feel the most pain
 
-> [!TIP]+ Quick Start Guide
-> New to Hugo Blox? Follow these steps to get your site up and running in minutes!
+Rather than replacing teams, I map workflows (triaging support chats, sales qualification, QA) and build Retrieval-Augmented Generation (RAG) agents with evaluation harnesses. Guardrails, human approval queues, and analytics ensure the agent earns trust before scaling.
 
-- 👉 [**Create a new site**](https://hugoblox.com/templates/)
-- 📚 [**Personalize your site**](https://docs.hugoblox.com/)
-- 💬 [Chat with the **Hugo Blox community**](https://discord.gg/z8wNYzb) or [**Hugo community**](https://discourse.gohugo.io)
-- 🐦 Twitter: [@GetResearchDev](https://x.com/BuildLore) [@GeorgeCushen](https://twitter.com/GeorgeCushen) #MadeWithHugoBlox
-- 💡 [Request a **feature** or report a **bug** for _Hugo Blox_](https://github.com/HugoBlox/hugo-blox-builder/issues)
-- ⬆️ **Updating Hugo Blox?** View the [Update Guide](https://docs.hugoblox.com/reference/update/) and [Release Notes](https://github.com/HugoBlox/hugo-blox-builder/releases)
+## 4. Automate observability and releases
 
-> [!IMPORTANT]
-> Remember to backup your site before making major updates!
+CI/CD pipelines (Bitrise/GitHub Actions) run integration tests, snapshot diffing, and agent evaluations. Feature flags plus telemetry (Sentry, Datadog) make it possible to roll out experiments gradually and collect the data required for continuous tuning.
 
-## Crowd-funded open-source software
+## 5. Share the knowledge
 
-To help us develop this template and software sustainably under the MIT license, we ask all individuals and businesses that use it to help support its ongoing maintenance and development via sponsorship.
+Eng enablement is part of the deliverable: playbooks, decision records, and live workshops keep teams confident after handoff. The goal is to create a sustainable foundation, not a one-off hero project.
 
-### [❤️ Click here to become a sponsor and help support Hugo Blox's future ❤️](https://hugoblox.com/sponsor/)
+### Case studies
 
-As a token of appreciation for sponsoring, you can **unlock [these](https://hugoblox.com/sponsor/) awesome rewards and extra features 🦄✨**
+- **Emirates Driving Institute** — Migrated to the React Native New Architecture, centralized Redux state, and Bitrise-driven releases to keep crash rates under 1% while students manage onboarding, scheduling, and payments.
+- **BrokerBlocker.ae** — Built Android/iOS privacy controls and async messaging for Dubai real estate brokers, cutting latency by 40% and protecting agents from spam outreach.
+- **TPL Maps SDK** — Led a 6-person team delivering Pakistan’s first sovereign navigation SDK with offline routing and live traffic layers for enterprise fleets.
 
-## Ecosystem
+---
 
-- **[Bibtex To Markdown](https://github.com/GetRD/academic-file-converter):** Automatically import publications from BibTeX
-
-## Inspiration
-
-[Learn what other **creators**](https://hugoblox.com/creators/) are building with this template.
-
-## Features
-
-> [!NOTE]+ Enhanced Markdown Support  
-> Hugo Blox now supports GitHub and Obsidian-style callouts! Use standard Markdown alert syntax like `> [!NOTE]` for better portability.
-
-- **Page builder** - Create _anything_ with no-code [**blocks**](https://hugoblox.com/blocks/) and [**elements**](https://docs.hugoblox.com/reference/markdown/)
-- **Edit any type of content** - Blog posts, publications, talks, slides, projects, and more!
-- **Create content** in [**Markdown**](https://docs.hugoblox.com/reference/markdown/), [**Jupyter**](https://docs.hugoblox.com/getting-started/cms/), or [**RStudio**](https://docs.hugoblox.com/getting-started/cms/)
-- **Plugin System** - Fully customizable [**color** and **font themes**](https://docs.hugoblox.com/getting-started/customize/)
-- **Display Code and Math** - Code syntax highlighting and LaTeX math supported
-- **Integrations** - [Google Analytics](https://analytics.google.com), [Disqus commenting](https://disqus.com), Maps, Contact Forms, and more!
-- **Beautiful Site** - Simple and refreshing one-page design
-- **Industry-Leading SEO** - Help get your website found on search engines and social media
-- **Media Galleries** - Display your images and videos with captions in a customizable gallery
-- **Mobile Friendly** - Look amazing on every screen with a mobile friendly version of your site
-- **Multi-language** - 35+ language packs including English, 中文, and Português
-- **Multi-user** - Each author gets their own profile page
-- **Privacy Pack** - Assists with GDPR
-- **Stand Out** - Bring your site to life with animation, parallax backgrounds, and scroll effects
-- **One-Click Deployment** - No servers. No databases. Only files.
-
-> [!WARNING]+ Version Requirements  
-> The new Markdown alert syntax requires Hugo v0.132.0 or later. Make sure you're using a compatible version!
-
-## Themes
-
-Hugo Blox and its templates come with **automatic day (light) and night (dark) mode** built-in. Visitors can choose their preferred mode by clicking the sun/moon icon in the header.
-
-[Choose a stunning **theme** and **font**](https://docs.hugoblox.com/getting-started/customize/) for your site. Themes are fully customizable.
-
-## License
-
-Copyright 2016-present [George Cushen](https://georgecushen.com).
-
-Released under the [MIT](https://github.com/HugoBlox/hugo-blox-builder/blob/main/LICENSE.md) license.
+Need someone to pressure-test your app or build an AI copilot tailored to your workflows? [Let’s talk](mailto:hassanjamil91@gmail.com) and outline a roadmap together.

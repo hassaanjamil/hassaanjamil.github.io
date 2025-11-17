@@ -34,51 +34,39 @@ sections:
       title: '🚀 Agentic Mobile Systems'
       subtitle: ''
       text: |-
-        I design mobile-first experiences and agentic AI workflows for founders and product teams that need to move quickly without compromising quality. My focus areas include:
+        I help founders and product teams ship resilient cross-platform apps and pragmatic agentic AI copilots. Every engagement includes a measurable performance baseline, modular architecture, and an enablement plan so your team keeps shipping after handoff.
 
-        - **React Native performance engineering** — modular architecture, CI/CD automation, and observability.
-        - **Agentic AI copilots** — RAG pipelines, evaluation harnesses, and safety guardrails tailored to your ops teams.
-        - **Product leadership** — cross-functional collaboration, design systems, and measurable experimentation.
+        - **React Native performance engineering** — New Architecture adoption, Expo/CLI hybrid workflows, and CI/CD automation with Bitrise/GitHub Actions.
+        - **Agentic AI copilots** — LangGraph and OpenAI Agents SDK pipelines with evaluation harnesses, guardrails, and analytics so humans stay in control.
+        - **Product leadership** — translating KPIs into roadmaps, aligning design systems, and coaching engineers through observability, testing, and release cadences.
 
-        I share case studies, architecture notes, and shipping lessons learned on this site.
+        Let’s build something dependable together. Reach me at [hassanjamil91@gmail.com](mailto:hassanjamil91@gmail.com) or **+971 56 463 8301**.
     design:
       columns: '1'
-  - block: collection
-    id: papers
+  - block: resume-experience
     content:
-      title: Featured Publications
+      title: Delivery Highlights
+      username: admin
+    design:
+      date_format: 'Jan 2006'
+      is_education_first: false
+  - block: collection
+    id: featured-projects
+    content:
+      title: Featured Projects
+      text: 'A snapshot of the production apps and SDKs I have recently delivered.'
       filters:
         folders:
-          - publications
-        featured_only: true
+          - projects
     design:
       view: article-grid
-      columns: 2
+      columns: 3
   - block: collection
+    id: blog
     content:
-      title: Recent Publications
-      text: ''
-      filters:
-        folders:
-          - publications
-        exclude_featured: false
-    design:
-      view: citation
-  - block: collection
-    id: talks
-    content:
-      title: Recent & Upcoming Talks
-      filters:
-        folders:
-          - events
-    design:
-      view: card
-  - block: collection
-    id: news
-    content:
-      title: Recent News
+      title: Latest Writing
       subtitle: ''
-      text: ''
+      text: 'Notes on React Native, agentic AI adoption, and shipping culture.'
       # Page type to display. E.g. post, talk, publication...
       page_type: blog
       # Choose how many pages you would like to display (0 = all pages)
@@ -108,7 +96,7 @@ sections:
       text: |-
         I partner with teams to audit their mobile experiences, build agentic copilots, and coach engineers through adoption. Share a brief about your roadmap and I'll send a lightweight plan within 48 hours.
       button:
-        text: Schedule a call
+        text: Schedule a meet
         url: mailto:hassanjamil91@gmail.com
     design:
       card:

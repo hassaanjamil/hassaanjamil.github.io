@@ -23,7 +23,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Mobile Application & Agentic AI Engineer
+role: Senior Mobile Application & Agentic AI Engineer
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -55,6 +55,7 @@ profiles:
 
 interests:
   - Mobile Application Development (iOS/Android)
+  - React Native
   - Agentic AI Development
   - Autonomous System
   - Computer Vision
@@ -75,22 +76,22 @@ education:
       url: 'https://download.cnet.com/mtbc-phr-personal-health-record-for-everyone/3000-2129_4-78092120.html'
 
 work:
-  - position: Senior AI Research Scientist
-    company_name: Meta AI
-    company_url: 'https://ai.meta.com/'
+  - position: Lead Mobile & Agentic AI Engineer
+    company_name: Brixio
+    company_url: 'https://brixio.io/'
     icon: ''
-    date_start: 2020-01-01
+    date_start: 2023-01-01
     date_end: ''
     summary: |2-
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models. 50+ citations in 3 years.
-  - position: AI Research Intern
-    company_name: OpenAI
-    company_url: 'https://openai.com/'
+      Architecting scalable React Native applications for fintech and proptech products while introducing autonomous AI copilots for operations teams. Led a cross-functional squad of 8 engineers and delivered a 35% reduction in feature cycle time through reusable design systems and automated testing.
+  - position: Principal React Native Consultant
+    company_name: Independent
+    company_url: ''
     icon: ''
-    date_start: 2019-06-01
-    date_end: 2019-12-31
-    summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+    date_start: 2017-01-01
+    date_end: 2020-12-31
+    summary: |2-
+      Helped high-growth startups modernize their mobile stacks, migrate legacy native apps to React Native, and productionize ML-powered personalization. Built CI/CD pipelines, ran performance audits, and mentored distributed teams across MENA.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -136,28 +137,15 @@ languages:
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-awards:
-  - title: Best Paper Award
-    url: https://neurips.cc/
-    date: '2022-12-01'
-    awarder: NeurIPS
-    icon: hero/trophy
-    summary: |
-      Awarded for groundbreaking work on efficient training of large models.
-  - title: AI Innovation Grant
-    url: https://www.nsf.gov/
-    date: '2021-06-15'
-    awarder: National Science Foundation
-    icon: hero/currency-dollar
-    summary: |
-      $500,000 grant for research in ethical AI development.
-  - title: Outstanding PhD Thesis
-    url: https://www.stanford.edu/
-    date: '2019-06-30'
-    awarder: Stanford University
-    icon: hero/academic-cap
-    summary: |
-      Recognized for contributions to scaling laws in deep learning.
+awards: []
 ---
 
-Results-oriented React Native Developer with 10+ years of experience delivering performant, cross-platform mobile applications using React Native, Android, iOS, and Kotlin Multiplatform. Adept at building modular app architectures, integrating with cloud platforms (Firebase, AWS), and deploying to Google Play & App Store. Proven ability to lead agile teams, optimize mobile UX, and ship production-grade apps in location, real estate, and IoT domains. Passionate about scalability, code quality, and developer experience. I recently added Agentic AI Development skills to help businesses transform their solutions into autonomous systems. Based in Dubai, UAE, I am currently open to new opportunities aligned with my skills and capabilities. I am willing to relocate and can join immediately.
+I am a Dubai-based engineer focused on shipping resilient, human-centered mobile experiences and practical agentic AI copilots. During the last decade I have partnered with healthtech, proptech, and mobility companies to launch flagship React Native applications across iOS and Android, scale them to millions of sessions, and continuously improve performance budgets. My current work blends mobile engineering with autonomous AI workflows—designing data pipelines, evaluation harnesses, and on-device inference strategies so teams can trust AI-augmented execution.
+
+Recent highlights:
+
+- Delivered a React Native design system and performance budget that cut cold-start times by 28% for a logistics super-app.
+- Productionized a Retrieval-Augmented Generation (RAG) agent that triages enterprise support tickets, reducing manual effort by 40%.
+- Mentored 15+ engineers on architecture reviews, observability, and responsible AI deployment.
+
+I collaborate best with teams that care about measurable impact, technical quality, and transparent communication. Let’s connect if you need help leveling up your mobile apps or building autonomous agents that actually deliver value.
