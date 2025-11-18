@@ -132,46 +132,50 @@ work:
 skills:
   - name: Technical Skills
     items:
-      - name: Python & PyTorch
+      - name: iOS Application Development (Swift)
         description: ''
         percent: 95
-        icon: code-bracket
-      - name: Machine Learning
+        icon: devicon/apple
+      - name: Android Application Development (Kotlin)
+        description: ''
+        percent: 95
+        icon: devicon/android
+      - name: React Native
         description: ''
         percent: 100
-        icon: chart-bar
-      - name: Cloud Computing (AWS/GCP)
+        icon: devicon/react
+      - name: Agentic AI Development
         description: ''
         percent: 85
-        icon: cloud
+        icon: brands/huggingface
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking in the Rockies
+      - name: Learn Advance Technolgoies
         description: ''
         percent: 80
-        icon: person-simple-walk
-      - name: Building Custom PCs
+        icon: acadmicons/academia
+      - name: Agentic AI
         description: ''
         percent: 90
         icon: cpu-chip
-      - name: Sci-Fi Reading
+      - name: Financial Education
         description: ''
         percent: 70
         icon: book-open
 
 languages:
   - name: English
+    percent: 60
+  - name: Urdu
     percent: 100
-  - name: Spanish
-    percent: 50
 
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-awards: []
+# awards: []
 ---
 
 I am a Dubai-based engineer focused on shipping resilient, human-centered mobile experiences and practical agentic AI copilots. During the last decade I have partnered with healthtech, proptech, and mobility companies to launch flagship React Native applications across iOS and Android, scale them to millions of sessions, and continuously improve performance budgets. My current work blends mobile engineering with autonomous AI workflows—designing data pipelines, evaluation harnesses, and on-device inference strategies so teams can trust AI-augmented execution.
