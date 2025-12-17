@@ -76,6 +76,17 @@ education:
       url: 'https://download.cnet.com/mtbc-phr-personal-health-record-for-everyone/3000-2129_4-78092120.html'
 
 work:
+  - position: Senior Software Developer
+    company_name: Lorenzé
+    icon: ''
+    date_start: 2023-11-20
+    date_end: ''
+    summary: |2-
+      - Single-handedly architecting and developing the whole software solution for the business.
+      - Covering the solution for all 3 platforms, e.g., Backend, Mobile, and Web Front End (Customer, Admin)
+      - Choose NestJS, Prisma, and PostgreSQL for the backend, React and NextJS for the web frontend, and React Native for mobile.
+      - Architected the scalability to support AI (integrating autonomous components) in Phase II.
+      - Using AI coding assistants to get the benefit of enhanced productivity, while taking the quality measures.
   - position: Senior React Native Mobile Developer
     company_name: Brixio
     company_url: 'https://brixio.io/'
