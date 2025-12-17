@@ -40,7 +40,7 @@ sections:
         - **Agentic AI copilots** — LangGraph and OpenAI Agents SDK pipelines with evaluation harnesses, guardrails, and analytics so humans stay in control.
         - **Product leadership** — translating KPIs into roadmaps, aligning design systems, and coaching engineers through observability, testing, and release cadences.
 
-        Let’s build something dependable together. Reach me at [hassanjamil91@gmail.com](mailto:hassanjamil91@gmail.com) or **+971 56 463 8301**.
+        Let’s build something dependable together. Reach me at [hassanjamil91@gmail.com](mailto:hassanjamil91@gmail.com) or **[+971 58 977 6893](https://api.whatsapp.com/send/?phone=971589776893&text&type=phone_number&app_absent=0)**.
     design:
       columns: '1'
   - block: resume-experience
