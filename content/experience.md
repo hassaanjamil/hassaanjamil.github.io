@@ -24,5 +24,5 @@ sections:
     content:
       title: Need a hand with your next release?
       text: |-
-        I help teams modernize their React Native applications, incorporate agentic AI copilots, and level up engineering practices. [Contact me](mailto:hassanjamil91@gmail.com) to discuss your roadmap.
+        I help teams modernize their React Native applications, incorporate agentic AI copilots, and level up engineering practices. Contact me, via [Whatsapp](https://api.whatsapp.com/send/?phone=971589776893&text&type=phone_number&app_absent=0) or [Email](mailto:hassanjamil91@gmail.com) to discuss your roadmap or free consultation.
 ---
